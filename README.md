@@ -4,3 +4,4 @@
 rebase-practiceブランチで更新（rebase コンフリクト用）
 rebase-pull用
 stash conflict
+stash untrack 確認
